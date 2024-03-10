@@ -1,0 +1,4 @@
+- source: Slides.qmd
+  netlify:
+    - id: 0077d820-704a-4ab4-8c0d-0dd93b4d44f3
+      url: 'https://git-github-course.netlify.app/'

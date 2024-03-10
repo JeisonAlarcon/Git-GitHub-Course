@@ -1,0 +1,25 @@
+# R & Quarto
+# -- History Files
+.Rhistory
+.Rapp.history
+# -- Session Data Files
+.RData
+.RDataTmp
+# -- RStudio Files
+.Rproj.user/
+# -- User-specific Files
+.Ruserdata
+# -- RStudio Connect Folder
+rsconnect/
+# -- Quarto
+/.quarto/
+
+# Sensitive Folders with Nonpublic Information
+Slides.qmd
+Books/*
+Files/*
+Images/*
+_extensions/*
+
+# Cheat
+!.gitignore

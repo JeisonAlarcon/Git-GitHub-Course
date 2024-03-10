@@ -1,0 +1,16 @@
+Template Quarto Presentations | Reveal Theme:
+	» https://github.com/InseeFrLab/onyxia-quarto
+
+Si presenta algún inconveniente al instalar la librería en conda:
+	» https://stackoverflow.com/questions/55185945/any-conda-or-pip-operation-give-ssl-error-in-windows-10
+
+<------------------------------------------------------------------------------>
+conda activate my-manim-environment
+-r -n=10 --all --transparent-bg --light-mode --color-by="author" --max-branches-per-commit=4 --max-tags-per-commit=10 --img-format=png --animate --low-quality --speed=5
+--show-intro --show-outro --outro-top-text="THIS IS A MESSAGE FROM START" --outro-bottom-text="END, THANKS" --logo=D:/Documentos/JOBS/DNPE/UnalR/pkgdown/favicon/apple-touch-icon.png
+conda deactivate
+<------------------------------------------------------------------------------>
+-r -n 10 --all --light-mode --color-by="author" --max-branches-per-commit=4 --max-tags-per-commit=10 --img-format=png --animate --low-quality --speed=5
+<------------------------------------------------------------------------------>
+--show-intro --show-outro --outro-top-text="THIS IS A MESSAGE FROM START" --outro-bottom-text="END, THANKS" --logo=D:/Documentos/JOBS/DNPE/UnalR/pkgdown/favicon/apple-touch-icon.png
+--transparent-bg
